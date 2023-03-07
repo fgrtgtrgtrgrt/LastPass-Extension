@@ -3,4 +3,4 @@ Last Pass Chrome Extension Source Code
 
 ``THIS IS NOT MY EXTENSION IM JUST PUTTING THE SOURCE OUT THERE``
 
-![](name-of-giphy.gif)
+![](Images/autofill-animation-gif.gif)
